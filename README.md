@@ -1,5 +1,7 @@
 # Native Taxa Biodiversity Analysis
 
+![burrowing owl pair(Athene cunicularia)](https://media.istockphoto.com/id/477716603/photo/burrowing-owl-couple-california.webp?b=1&s=170667a&w=0&k=20&c=5KsFzODfbspNYIo0ORtmS4LfKGYgTYFYCGI6uZFwZDk= "burrowing owl pair (Athene cunicularia)")
+
 This repository contains a data analysis project focused on the biodiversity of native taxa across various counties in California. The analysis includes a comparison of native amphibians, reptiles, birds, and mammals in Humboldt County, San Bernardino County, and Los Angeles County, with a focus on understanding how human population density might affect biodiversity.
 
 ## Table of Contents
